@@ -6,6 +6,4 @@
 
 Для отчета выбран сэмпл данных medium, который  охватывает период с середины июля по середину ноября 2016г. Исходные данные были загружены в Postgres, из которой они были импортированы в Power BI.  
 
-Помимо отчета в формате .pbix с исходными данными также отдельно вынесен в файл **code.txt** код DAX с комментариями
-
 Также есть отдельная версия для web c заглушками для элементов, которые не поддерживаются при публикации в интернете - [ссылка](https://app.powerbi.com/view?r=eyJrIjoiN2UxMzJhMDEtOTUxNC00ZDg5LWE1ZGEtYjkxN2FmMTE3MWI3IiwidCI6IjU5OGVhN2U3LTc5OWYtNDUyZi1iNGU3LTQwMzFjMzc0MTJjYyIsImMiOjl9) 
