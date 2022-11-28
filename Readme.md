@@ -6,4 +6,4 @@
 
 Для отчета выбран сэмпл данных medium, который  охватывает период с середины июля по середину ноября 2016г. Исходные данные были загружены в Postgres, из которой они были импортированы в Power BI.  
 
-Также есть отдельная версия для web c заглушками для элементов, которые не поддерживаются при публикации в интернете - [ссылка](https://app.powerbi.com/view?r=eyJrIjoiODRmNjc3ZDYtMGVkZS00ZmMwLTk1ZWQtYmI4M2M5N2U1Y2Q3IiwidCI6IjU5OGVhN2U3LTc5OWYtNDUyZi1iNGU3LTQwMzFjMzc0MTJjYyIsImMiOjl9) 
+Также есть отдельная версия для web c заглушками для элементов, которые не поддерживаются при публикации в интернете - [ссылка](https://app.powerbi.com/view?r=eyJrIjoiODRmNjc3ZDYtMGVkZS00ZmMwLTk1ZWQtYmI4M2M5N2U1Y2Q3IiwidCI6IjU5OGVhN2U3LTc5OWYtNDUyZi1iNGU3LTQwMzFjMzc0MTJjYyIsImMiOjl9&pageName=ReportSectiondb83f5810510871e8041) 
